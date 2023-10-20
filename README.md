@@ -1,2 +1,4 @@
 # Python-Classification
 One of the later projects I focued on in university that aimed at training a classification model in order to accurately predict if a YouTube comment is overall negative or positive while reading its text. The train_data.csv and test_data.csv are provided for context.
+Multiple classification models were used for the project and after a long and eventful trial-and-error period, settled on the RandomForestClassifier model as the more accurate one with a 73.2% accuracy score.
+However, as always, I am more than happy to receive feedback in further improving the model as it is rather simple. It is a current goal of mine to keep expanding in the sphere of machine learning classification and categorisation to improve the accuracy rates I get in order to simplify and make more tedious tasks for office workers (filling out excel sheets, etc) a better overal experience.
